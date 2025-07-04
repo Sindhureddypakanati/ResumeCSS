@@ -1,0 +1,76 @@
+*{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+table{
+    background-color:beige;
+    width:100%;
+}
+
+
+#image{
+    text-align:center;
+    width:150px;
+    border-radius:50%;
+    
+}
+a{
+    text-decoration:none;
+}
+.heading1{
+    background-color:aqua;
+    width:100%;
+}
+.first{
+   background-color:aliceblue; 
+   width:100%;
+}
+.heading7{
+    background-color:brown;
+    width:100%;
+}
+.second{
+    background-color:azure;
+    width:100%;
+}
+.heading2{
+    background-color:blue;
+    width:100%;
+}
+.Third{
+     background-color:rgb(245, 244, 243);
+    width:100%;
+
+}
+.heading3{
+    background-color:rgb(155, 125, 183);
+    width:100%; 
+}
+.Fourth{
+    background-color:rgb(238, 237, 235);
+    width:100%; 
+}
+.heading4{
+    background-color:indianred;
+    width:100%; 
+}
+.Fivth{
+    background-color:rgb(231, 238, 238);
+    width:100%; 
+}
+.heading5{
+    background-color:rgb(210, 29, 29);
+}
+.Sixth{
+    background-color:rgb(245, 244, 242);
+    width:100%;
+}
+.heading6{
+    background-color:chocolate;
+    width:100%; 
+}
+.Seventh{
+    background-color:aliceblue;
+    width:100%; 
+}
+
+
